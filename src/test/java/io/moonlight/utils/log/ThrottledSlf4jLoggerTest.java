@@ -4,7 +4,7 @@ import io.moonlight.utils.time.ClockUtil;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import io.moonnight.utils.test.log.LogbackListAppender;
+import io.moonlight.utils.test.log.LogbackListAppender;
 
 import java.util.concurrent.TimeUnit;
 

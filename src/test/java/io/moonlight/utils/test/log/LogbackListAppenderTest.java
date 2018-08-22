@@ -3,7 +3,7 @@
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  *******************************************************************************/
-package io.moonnight.utils.test.log;
+package io.moonlight.utils.test.log;
 
 import static org.assertj.core.api.Assertions.*;
 

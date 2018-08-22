@@ -1,4 +1,4 @@
-package io.moonnight.utils.test.rule;
+package io.moonlight.utils.test.rule;
 
 import org.junit.rules.TestWatcher;
 import org.junit.runner.Description;

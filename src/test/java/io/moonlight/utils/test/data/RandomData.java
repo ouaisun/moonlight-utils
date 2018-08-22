@@ -3,7 +3,7 @@
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  *******************************************************************************/
-package io.moonnight.utils.test.data;
+package io.moonlight.utils.test.data;
 
 import java.util.Collections;
 import java.util.List;
